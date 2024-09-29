@@ -132,3 +132,8 @@ let mod = a % b; // remainder
 // let def = 11;
 
 // console.log(abc === def ? "=" : "!=");
+
+// Next Class
+// Condition Statements
+// Loop 
+// Function 
