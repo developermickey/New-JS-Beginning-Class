@@ -135,5 +135,6 @@ let mod = a % b; // remainder
 
 // Next Class
 // Condition Statements
-// Loop 
-// Function 
+// Loop
+// ToDo List
+// Function
