@@ -138,3 +138,12 @@ let mod = a % b; // remainder
 // Loop
 // ToDo List
 // Function
+
+
+
+// Today Topic Done
+// basic syntex
+// comments
+// variable
+// datatypes
+// All operators
